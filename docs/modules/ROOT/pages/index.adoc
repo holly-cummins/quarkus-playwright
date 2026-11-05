@@ -40,7 +40,6 @@ public class WithDefaultPlaywrightTest {
     BrowserContext context;
 
     @TestHTTPResource("/")
-
     URL index;
 
     @Test
